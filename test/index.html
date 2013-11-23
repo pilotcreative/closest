@@ -26,6 +26,7 @@
       assert(closest(d3, '#d1', null, d2), undefined)
       assert(closest(d3, '#d1', null, d1), d1)
       assert(closest(d4, 'body'), undefined)
+      assert(closest(document.documentElement, '*'), undefined);
 
       alert('ok')
 
