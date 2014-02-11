@@ -2,6 +2,7 @@
   "name": "discore-closest",
   "description": "Find the closest ancestor matching a selector string",
   "version": "0.1.2",
+  "author": "Jonathan Ong",
   "dependencies": {
     "component-matches-selector": "*"
   },
