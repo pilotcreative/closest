@@ -2,7 +2,6 @@
   "name": "discore-closest",
   "description": "Find the closest ancestor matching a selector string",
   "version": "0.1.2",
-  "repo": "discore/closest",
   "dependencies": {
     "component-matches-selector": "*"
   },
@@ -12,5 +11,9 @@
     }
   },
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TooTallNate/closest.git"
+  }
 }
