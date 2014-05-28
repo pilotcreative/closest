@@ -6,6 +6,9 @@
   "dependencies": {
     "component-matches-selector": "*"
   },
+  "browser": {
+    "matches-selector": "component-matches-selector"
+  },
   "component": {
     "scripts": {
       "closest/index.js": "index.js"
