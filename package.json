@@ -1,0 +1,23 @@
+{
+  "name": "discore-closest",
+  "description": "Find the closest ancestor matching a selector string",
+  "version": "0.1.3",
+  "author": "Jonathan Ong",
+  "dependencies": {
+    "component-matches-selector": "*"
+  },
+  "browser": {
+    "matches-selector": "component-matches-selector"
+  },
+  "component": {
+    "scripts": {
+      "closest/index.js": "index.js"
+    }
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TooTallNate/closest.git"
+  }
+}
