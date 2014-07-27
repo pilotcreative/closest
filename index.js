@@ -14,6 +14,6 @@ module.exports = function (element, selector, checkYoSelf, root) {
     // the selector matches the root
     // (when the root is not the document)
     if (element === root)
-      return  
+      return
   }
 }
