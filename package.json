@@ -1,5 +1,5 @@
 {
-  "name": "discore-closest",
+  "name": "component-closest",
   "description": "Find the closest ancestor matching a selector string",
   "version": "0.1.3",
   "author": "Jonathan Ong",
