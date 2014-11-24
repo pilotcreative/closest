@@ -1,13 +1,8 @@
 {
-  "name": "component-closest",
+  "name": "closest",
   "description": "Find the closest ancestor matching a selector string",
   "version": "0.1.4",
   "author": "Jonathan Ong",
-  "component": {
-    "scripts": {
-      "closest/index.js": "index.js"
-    }
-  },
   "main": "index.js",
   "license": "MIT",
   "repository": {
