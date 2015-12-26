@@ -1,5 +1,5 @@
 build:
 	mkdir -p build
-	duo index.js --global closest > build/build.js
+	duo index.js --global closest
 
 .PHONY: build
