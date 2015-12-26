@@ -1,4 +1,4 @@
-var matches = require('necolas/dom-matches@1.0.1')
+var matches = require('necolas/dom-matches@2.0.0');
 
 module.exports = function (element, selector, checkYoSelf, root) {
   element = checkYoSelf ? {parentNode: element} : element
